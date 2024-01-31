@@ -1,0 +1,9 @@
+This is a test of Steganography.
+
+I will use this to make a image generation model, that will encrypt passwords.
+
+This would be an example of the image to encryption and decryption set.
+
+Now I would do is to make a script that gets in touch with dale and generates the image so you dont have to upload anything then,
+that image is save in a database, where the system will get to it encrypt the information requested, 
+and you can pick and choose where to save those images, they can always be decrypted using the future exe.
